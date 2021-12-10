@@ -43,6 +43,7 @@
     "test:init-e2e-tests": "yarn start:e2e-scripts --log-level=http",
     "test:init-e2e-tests:polkadot": "yarn test:init-e2e-tests --chain polkadot",
     "test:init-e2e-tests:kusama": "yarn test:init-e2e-tests --chain kusama",
+    "test:init-e2e-tests:karura": "yarn test:init-e2e-tests --chain karura",
     "test:init-e2e-tests:westend": "yarn test:init-e2e-tests --chain westend",
     "test:init-e2e-tests:statemine": "yarn test:init-e2e-tests --chain statemine",
     "start:e2e-scripts": "yarn build:scripts && node scripts/build/runChainTests.js",
