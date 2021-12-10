@@ -68,5 +68,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn
-    - run: yarn test:test-release
+    - run: yarn test:init-e2e-tests:karura
     
