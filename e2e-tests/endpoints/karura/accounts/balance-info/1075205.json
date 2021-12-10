@@ -1,0 +1,13 @@
+{
+    "at": {
+        "hash": "0x4d30840d62ede59db70000096f4a436e79562a6c02b7fcb402bbba0e8ed44248",
+        "height": "1075205"
+    },
+    "nonce": "0",
+    "tokenSymbol": "KAR",
+    "free": "1408677341500000000",
+    "reserved": "0",
+    "miscFrozen": "0",
+    "feeFrozen": "0",
+    "locks": []
+}
